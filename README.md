@@ -11,7 +11,7 @@
 pip install tweepy
 ```
 ```
-git clone https://github.com/fastcoin-project/twitter-bot-fastcoin.git
+git clone https://github.com/sumtoshi/twitter-bot.git
 ```
 ```
 cd twitter-bot-fastcoin
