@@ -14,7 +14,7 @@ pip install tweepy
 git clone https://github.com/sumtoshi/twitter-bot.git
 ```
 ```
-cd twitter-bot-fastcoin
+cd twitter-bot
 ```
 **Set your twitter api key inside twitter.py
 
